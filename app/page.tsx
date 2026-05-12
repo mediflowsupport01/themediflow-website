@@ -8,7 +8,7 @@ export default function Home() {
       <section className="relative min-h-screen overflow-hidden border border-teal-500/10">
 
         <Image
-  src="/hospital1.png"
+  src="/hospital.png"
   alt="hospital"
   fill
   priority
