@@ -58,7 +58,7 @@ export default function Home() {
 
           {/* DESCRIPTION */}
           <p className="mt-10 text-slate-200 text-2xl leading-10 max-w-3xl">
-            Streamline OPD, IPD Workflow,Bed Inteligence,Performance & insights
+            Streamline OPD, IPD Workflow,Bed Intelligence,Performance & insights
             <br />
             Smart Operations . Faster Discharge . Enhance patient experience
           </p>
@@ -208,7 +208,7 @@ export default function Home() {
                 <div>✓ OPD Management</div>
                 <div>✓ IPD Management</div>
                 <div>✓ Basic Reports</div>
-                <div>✓ WhatsApp Notifications</div>
+                <div>✓ WhatsApp Notifications (Add Ons)</div>
 
               </div>
 
@@ -304,7 +304,7 @@ export default function Home() {
 
       </section>
 
-      {/* FOOTER */}
+            {/* FOOTER */}
       <section className="relative overflow-hidden border-x border-b border-teal-500/10">
 
         <div className="absolute inset-0">
@@ -319,9 +319,9 @@ export default function Home() {
 
         </div>
 
-        <div className="relative z-10 p-14 bg-gradient-to-r from-[#1E3A8A]/90 via-[#2563EB]/80 to-[#0F172A]/80">
+        <div className="relative z-10 p-14 bg-gradient-to-r from-[#1E3A8A]/80 via-[#2563EB]/65 to-[#0F172A]/70">
 
-          <h2 className="text-5xl font-black max-w-3xl leading-tight">
+          <h2 className="text-5xl font-black max-w-2xl leading-tight">
 
             Let’s Build the Future
             <br />
@@ -337,6 +337,9 @@ export default function Home() {
           <p className="mt-6 text-slate-200 text-lg max-w-2xl leading-8">
             Empower your hospital with MediFlow and deliver exceptional care every day.
           </p>
+          <p className="mt-4 text-teal-200 text-sm tracking-wide uppercase">
+            Trusted Digital Workflow Platform for Modern Hospitals
+          </p>
 
           <div className="flex gap-5 mt-10 flex-wrap">
 
@@ -350,19 +353,107 @@ export default function Home() {
 
             <a
               href="tel:+919270229127"
-              className="border border-white/20 hover:bg-white/10 transition px-8 py-4 rounded-2xl text-lg font-semibold backdrop-blur-md"
+              className="border border-white/15 bg-white/5 hover:bg-white/10 transition px-8 py-4 rounded-2xl text-lg font-semibold backdrop-blur-md"
             >
               Call +91 92702 29127
             </a>
 
           </div>
 
-          <div className="mt-14 flex flex-wrap gap-8 text-slate-200">
+          {/* TERMS & PRIVACY */}
+          <div className="mt-20 grid md:grid-cols-2 gap-8">
+
+            {/* PRIVACY POLICY */}
+            <div className="bg-white/10 backdrop-blur-md border border-white/10 rounded-3xl p-8">
+
+              <h3 className="text-3xl font-bold text-white mb-6">
+                Privacy Policy
+              </h3>
+
+              <div className="space-y-4 text-slate-200 leading-7">
+
+                <p>
+                  MediFlow values patient privacy and healthcare data security.
+                </p>
+
+                <p>
+                  All hospital and patient information is handled securely with controlled access and encrypted infrastructure wherever applicable.
+                </p>
+
+                <p>
+                  We do not sell customer or patient data to third parties.
+                </p>
+
+                <p>
+                  Hospitals are responsible for maintaining proper internal access control and compliance practices.
+                </p>
+
+                <p>
+                  By using MediFlow, users agree to responsible and lawful usage of the platform.
+                </p>
+
+              </div>
+
+            </div>
+
+            {/* TERMS & CONDITIONS */}
+            <div className="bg-white/10 backdrop-blur-md border border-white/10 rounded-3xl p-8">
+
+              <h3 className="text-3xl font-bold text-white mb-6">
+                Terms & Conditions
+              </h3>
+
+              <div className="space-y-4 text-slate-200 leading-7">
+
+                <p>
+                  MediFlow is a SaaS platform designed for healthcare workflow management.
+                </p>
+
+                <p>
+                  Subscription plans are billed monthly or annually as agreed during onboarding.
+                </p>
+
+                <p>
+                  Hospitals are responsible for accuracy of uploaded patient and operational data.
+                </p>
+
+                <p>
+                  Unauthorized access attempts, misuse or reverse engineering of the platform are strictly prohibited.
+                </p>
+
+                <p>
+                  MediFlow reserves the right to improve platform features, pricing and policies over time.
+                </p>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          {/* QUICK LINKS */}
+          <div className="flex flex-wrap gap-4 mt-10">
+
+            <button className="px-6 py-3 rounded-2xl bg-white/10 border border-white/10 backdrop-blur-md hover:bg-white/20 transition text-white">
+              Privacy Policy
+            </button>
+
+            <button className="px-6 py-3 rounded-2xl bg-white/10 border border-white/10 backdrop-blur-md hover:bg-white/20 transition text-white">
+              Terms & Conditions
+            </button>
+
+          </div>
+
+          <div className="mt-14 flex flex-wrap gap-6 items-center text-slate-200">
 
             <span>🌐 www.themediflow.com</span>
             <span>✉ service@themediflow.com</span>
             <span>📞 +91 92702 29127</span>
 
+          </div>
+
+                    <div className="mt-10 border-t border-white/10 pt-6 text-slate-300 text-sm">
+            © 2026 MediFlow. All rights reserved.
           </div>
 
         </div>
