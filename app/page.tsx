@@ -432,18 +432,7 @@ export default function Home() {
           </div>
 
           {/* QUICK LINKS */}
-          <div className="flex flex-wrap gap-4 mt-10">
-
-            <button className="px-6 py-3 rounded-2xl bg-white/10 border border-white/10 backdrop-blur-md hover:bg-white/20 transition text-white">
-              Privacy Policy
-            </button>
-
-            <button className="px-6 py-3 rounded-2xl bg-white/10 border border-white/10 backdrop-blur-md hover:bg-white/20 transition text-white">
-              Terms & Conditions
-            </button>
-
-          </div>
-
+          
           <div className="mt-14 flex flex-wrap gap-6 items-center text-slate-200">
 
             <span>🌐 www.themediflow.com</span>
