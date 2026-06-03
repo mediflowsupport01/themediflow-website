@@ -86,7 +86,7 @@ export default function Home() {
 </div>
 
             <a
-              href="https://wa.me/919270229127"
+              href="https://wa.me/919272349127"
               target="_blank"
               className="px-8 py-4 rounded-2xl bg-gradient-to-r from-[#14B8A6] to-[#1E3A8A] text-white font-semibold text-lg hover:scale-105 transition-all duration-300 shadow-2xl"
             >
@@ -94,7 +94,7 @@ export default function Home() {
             </a>
 
             <a
-              href="tel:+919270229127"
+              href="tel:+919272349127"
               className="px-8 py-4 rounded-2xl border border-white/20 bg-white/10 backdrop-blur-md text-white font-semibold text-lg hover:bg-white/20 transition-all duration-300"
             >
               WhatsApp Us
@@ -213,7 +213,7 @@ export default function Home() {
               </div>
 
               <a
-                href="https://wa.me/919270229127?text=Hi%20MediFlow%2C%20I%20want%20to%20know%20more%20about%20the%20Base%20plan."
+                href="https://wa.me/919272349127?text=Hi%20MediFlow%2C%20I%20want%20to%20know%20more%20about%20the%20Base%20plan."
                 target="_blank"
                 className="mt-12 w-full inline-flex items-center justify-center py-4 rounded-2xl bg-gradient-to-r from-[#14B8A6] to-[#0EA5E9] text-white font-semibold text-lg hover:scale-105 transition-all duration-300"
               >
@@ -255,7 +255,7 @@ export default function Home() {
               </div>
 
               <a
-                href="https://wa.me/919270229127?text=Hi%20MediFlow%2C%20I%20want%20a%20demo%20for%20the%20Startup%20plan."
+                href="https://wa.me/919272349127?text=Hi%20MediFlow%2C%20I%20want%20a%20demo%20for%20the%20Startup%20plan."
                 target="_blank"
                 className="mt-12 w-full inline-flex items-center justify-center py-4 rounded-2xl bg-gradient-to-r from-[#1E3A8A] to-[#2563EB] text-white font-semibold text-lg hover:scale-105 transition-all duration-300"
               >
@@ -289,7 +289,7 @@ export default function Home() {
               </div>
 
               <a
-                href="https://wa.me/919270229127?text=Hi%20MediFlow%2C%20I%20want%20enterprise%20pricing%20details."
+                href="https://wa.me/919272349127?text=Hi%20MediFlow%2C%20I%20want%20enterprise%20pricing%20details."
                 target="_blank"
                 className="mt-12 w-full inline-flex items-center justify-center py-4 rounded-2xl bg-gradient-to-r from-violet-500 to-purple-500 text-white font-semibold text-lg hover:scale-105 transition-all duration-300"
               >
@@ -344,7 +344,7 @@ export default function Home() {
           <div className="flex gap-5 mt-10 flex-wrap">
 
             <a
-              href="https://wa.me/919270229127"
+              href="https://wa.me/919272349127"
               target="_blank"
               className="bg-gradient-to-r from-teal-500 to-blue-700 hover:scale-105 transition-all duration-300 px-8 py-4 rounded-2xl text-lg font-semibold shadow-xl"
             >
@@ -352,10 +352,10 @@ export default function Home() {
             </a>
 
             <a
-              href="tel:+919270229127"
+              href="tel:+919272349127"
               className="border border-white/15 bg-white/5 hover:bg-white/10 transition px-8 py-4 rounded-2xl text-lg font-semibold backdrop-blur-md"
             >
-              Call +91 92702 29127
+              Call +91 927 234 9127
             </a>
 
           </div>
