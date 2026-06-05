@@ -436,7 +436,7 @@ export default function Home() {
           <div className="mt-14 flex flex-wrap gap-6 items-center text-slate-200">
 
             <span>🌐 www.themediflow.com</span>
-            <span>✉ service@themediflow.com</span>
+            <span>✉ mediflowsupport01@gmail.com</span>
             <span>📞 +91 92723 49127</span>
 
           </div>
